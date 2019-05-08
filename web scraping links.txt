@@ -1,0 +1,27 @@
+1 => http://www.webscrapingfordatascience.com/basichttp/
+
+2 => http://www.webscrapingfordatascience.com/paramhttp/
+3 => http://www.webscrapingfordatascience.com/paramhttp/?query=test
+4 => http://www.webscrapingfordatascience.com/calchttp/
+5 => https://en.wikipedia.org/wiki/List_of_Game_of_Thrones_episodes
+
+6 => http://www.webscrapingfordatascience.com/basicform/
+7 => http://www.webscrapingfordatascience.com/postform/
+8 => http://www.webscrapingfordatascience.com/postform2/
+
+9 => http://www.webscrapingfordatascience.com/postform3/
+
+10 => http://www.webscrapingfordatascience.com/usercheck/
+11 => http://www.webscrapingfordatascience.com/referercheck/
+
+12 => http://www.webscrapingfordatascience.com/cookielogin/
+
+13 => http://www.webscrapingfordatascience.com/redirlogin/
+14 => http://www.webscrapingfordatascience.com/trickylogin/
+
+15 => http://www.webscrapingfordatascience.com/jsonajax/
+
+16 => http://www.webscrapingfordatascience.com/simplejavascript/
+17 => http://www.webscrapingfordatascience.com/complexjavascript/
+
+18 => https://selenium-python.readthedocs.io/
